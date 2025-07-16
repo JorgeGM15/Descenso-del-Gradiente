@@ -33,7 +33,7 @@ Necesitarás tener las siguientes librerías de Python instaladas:
 * `matplotlib`
 
 Puedes instalarlas usando pip:
-pip install numpy pandas scikit-learn matplotlib
+`pip install numpy pandas scikit-learn matplotlib`
 
 ## 🚀 Cómo Ejecutar
 Simplemente clona el repositorio y ejecuta el script de Python desde tu terminal:

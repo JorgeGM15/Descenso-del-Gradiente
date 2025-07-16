@@ -33,5 +33,9 @@ Necesitarás tener las siguientes librerías de Python instaladas:
 * `matplotlib`
 
 Puedes instalarlas usando pip:
-```bash
 pip install numpy pandas scikit-learn matplotlib
+
+## 🚀 Cómo Ejecutar
+Simplemente clona el repositorio y ejecuta el script de Python desde tu terminal:
+`python Gradiente_descendente.py`
+El script se ejecutará, mostrará las gráficas y finalmente imprimirá en la consola la tabla comparativa de los resultados.
